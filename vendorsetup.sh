@@ -1,1 +1,1 @@
-add_lunch_combo aosip_h930-userdebug
+add_lunch_combo du_h930-userdebug
