@@ -14,15 +14,15 @@
 # limitations under the License.
 #
 
-DEVICE_PATH := device/lge/h930
+DEVICE_PATH := device/lge/us998
 
 # inherit from common v30
 -include device/lge/joan-common/BoardConfigCommon.mk
 
-TARGET_OTA_ASSERT_DEVICE := v30,joan,h930
+TARGET_OTA_ASSERT_DEVICE := v30,joan,us998
 
 # Kernel
 TARGET_KERNEL_CONFIG := lineageos_h930_defconfig
 
 # inherit from the proprietary version
--include vendor/lge/h930/BoardConfigVendor.mk
+-include vendor/lge/us998/BoardConfigVendor.mk

@@ -1,4 +1,4 @@
-$(call inherit-product, device/lge/h930/full_h930.mk)
+$(call inherit-product, device/lge/us998/full_us998.mk)
 
 # Inherit some common Lineage stuff.
 $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
@@ -8,7 +8,7 @@ DEVICE_PACKAGE_OVERLAYS += $(LOCAL_PATH)/overlay
 
 # Device identifiers
 
-PRODUCT_NAME := lineage_h930
+PRODUCT_NAME := lineage_us998
 PRODUCT_BRAND := lge
 PRODUCT_MANUFACTURER := LGE
 PRODUCT_RELEASE_NAME := V30
