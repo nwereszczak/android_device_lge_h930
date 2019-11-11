@@ -25,4 +25,4 @@ TARGET_OTA_ASSERT_DEVICE := v30,joan,us998
 TARGET_KERNEL_CONFIG := lineageos_h930_defconfig
 
 # inherit from the proprietary version
--include vendor/lge/us998/BoardConfigVendor.mk
+-include vendor/lge/h930/BoardConfigVendor.mk
