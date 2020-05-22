@@ -1,1 +1,1 @@
-add_lunch_combo lineage_h930-userdebug
+add_lunch_combo lineage_us998-userdebug
